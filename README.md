@@ -1,12 +1,19 @@
-<h1 align="center">gatsby-starter-morning-dew</h1>
+<h1 align="center">La Bakería del Sr. Argote</h1>
 
 <p align="center">
-  🚀 A gatsby-starter-morning-dew is a Gatsby starter to build lightning-fast websites!
+  🚀 A site for my baking built from the
+	  <a href="https://app.netlify.com/sites/gatsby-starter-morning-dew/deploys">
+      Gatsby starter 
+    </a>
+    <a href="https://maxpou.github.io/gatsby-starter-morning-dew/">
+      Morning Dew
+    </a>
+    .
 </p>
 
 <p align="center">
   <strong>
-    <a href="https://maxpou.github.io/gatsby-starter-morning-dew/">Demo</a>
+  Stuff below is leftover from that starter for later review.
   </strong>
 </p>
 
